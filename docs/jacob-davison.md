@@ -7,3 +7,5 @@
 **Favorite food** : Chicken
 
 **Hobby** : Tennis
+
+**Favorite color** : Blue
